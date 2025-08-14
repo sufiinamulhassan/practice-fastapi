@@ -1,0 +1,22 @@
+{
+    "P001": {"name": "Ayesha Khan", "city": "Karachi", "age": 28, "gender": "female", "height": 1.65, "weight": 90.0, "bmi": 33.06, "verdict": "Obese"},
+    "P002": {"name": "Ali Raza", "city": "Lahore", "age": 35, "gender": "male", "height": 1.75, "weight": 85, "bmi": 27.76, "verdict": "Overweight"},
+    "P003": {"name": "Hina Malik", "city": "Islamabad", "age": 22, "gender": "female", "height": 1.60, "weight": 45, "bmi": 17.58, "verdict": "Underweight"},
+    "P004": {"name": "Usman Ahmed", "city": "Faisalabad", "age": 40, "gender": "male", "height": 1.80, "weight": 85.0, "bmi": 26.23, "verdict": "Overweight"},
+    "P005": {"name": "Sana Iqbal", "city": "Rawalpindi", "age": 30, "gender": "female", "height": 1.55, "weight": 75, "bmi": 31.22, "verdict": "Obese"},
+    "P006": {"name": "Bilal Hussain", "city": "Multan", "age": 27, "gender": "male", "height": 1.72, "weight": 70, "bmi": 23.66, "verdict": "Normal"},
+    "P007": {"name": "Maria Yousaf", "city": "Karachi", "age": 24, "gender": "female", "height": 1.62, "weight": 60, "bmi": 22.86, "verdict": "Normal"},
+    "P008": {"name": "Shahid Anwar", "city": "Hyderabad", "age": 38, "gender": "male", "height": 1.78, "weight": 110, "bmi": 34.72, "verdict": "Obese"},
+    "P009": {"name": "Zara Shah", "city": "Quetta", "age": 26, "gender": "female", "height": 1.58, "weight": 50, "bmi": 20.03, "verdict": "Normal"},
+    "P010": {"name": "Imran Khan", "city": "Peshawar", "age": 45, "gender": "male", "height": 1.76, "weight": 92, "bmi": 29.70, "verdict": "Overweight"},
+    "P011": {"name": "Fatima Noor", "city": "Karachi", "age": 33, "gender": "female", "height": 1.68, "weight": 88, "bmi": 31.18, "verdict": "Obese"},
+    "P012": {"name": "Hamza Tariq", "city": "Lahore", "age": 29, "gender": "male", "height": 1.70, "weight": 68, "bmi": 23.53, "verdict": "Normal"},
+    "P013": {"name": "Nida Farooq", "city": "Rawalpindi", "age": 21, "gender": "female", "height": 1.63, "weight": 47, "bmi": 17.69, "verdict": "Underweight"},
+    "P014": {"name": "Kashif Mahmood", "city": "Faisalabad", "age": 36, "gender": "male", "height": 1.82, "weight": 95, "bmi": 28.68, "verdict": "Overweight"},
+    "P015": {"name": "Mehwish Ali", "city": "Islamabad", "age": 32, "gender": "female", "height": 1.59, "weight": 78, "bmi": 30.84, "verdict": "Obese"},
+    "P016": {"name": "Zeeshan Akhtar", "city": "Karachi", "age": 41, "gender": "male", "height": 1.75, "weight": 80, "bmi": 26.12, "verdict": "Overweight"},
+    "P017": {"name": "Aiman Sheikh", "city": "Lahore", "age": 25, "gender": "female", "height": 1.64, "weight": 52, "bmi": 19.34, "verdict": "Normal"},
+    "P018": {"name": "Adnan Javed", "city": "Peshawar", "age": 37, "gender": "male", "height": 1.73, "weight": 77, "bmi": 25.71, "verdict": "Normal"},
+    "P019": {"name": "Hira Qureshi", "city": "Quetta", "age": 28, "gender": "female", "height": 1.57, "weight": 43, "bmi": 17.46, "verdict": "Underweight"},
+    "P020": {"name": "Asad Mehmood", "city": "Multan", "age": 34, "gender": "male", "height": 1.80, "weight": 102, "bmi": 31.48, "verdict": "Obese"}
+}
