@@ -6,7 +6,7 @@ app = FastAPI()
 def load_data():
     with open('paitents.json', 'r') as f:
         data = json.load(f)
-    return 
+    return data
 
 @app.get("/")
 def Hello():
@@ -18,5 +18,5 @@ def about():
 
 @app.get("/view")
 def view():
-    data = load_data
+    data = load_data()
     return data
